@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mon CV</title>
   </head>
   <body>
     <h1>CV de Lucas Bauer</h1>
