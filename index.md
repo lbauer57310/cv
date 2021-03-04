@@ -51,4 +51,3 @@ Passionné également de sport, cela me permet de me dépasser pour accomplir me
 </section> 
   </body>
 </html>
-theme: Slate
